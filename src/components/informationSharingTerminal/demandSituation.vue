@@ -35,21 +35,21 @@ export default {
   data () {
     return {
       tableData: [{
-        index: 'ZL20211003',
+        orderId: 'ZL20211003',
         purchaseAlert: '客户1',
         address2: '长沙',
         name: '切割环Φ230',
         purchase: '321',
         solution: '已处理'
       }, {
-        index: 'ZL20211004',
+        orderId: 'ZL20211004',
         purchaseAlert: '客户2',
         address2: '株洲',
         purchase: '123',
         name: '齿轮油\\SHC220\\18L',
         solution: '未处理'
       }, {
-        index: 'ZL20211005',
+        orderId: 'ZL20211005',
         purchaseAlert: '客户3',
         purchase: '532',
         address2: '湘潭',

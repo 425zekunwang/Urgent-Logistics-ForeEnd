@@ -64,7 +64,7 @@ export default {
   data () {
     return {
       tableData: [{
-        index: 'ZL20211003',
+        orderId: 'ZL20211003',
         purchaseAlert: '十分紧急',
         time: '2021-10-3',
         name: '切割环Φ230',
@@ -73,7 +73,7 @@ export default {
         operation1: true,
         operation2: true
       }, {
-        index: 'ZL20211004',
+        orderId: 'ZL20211004',
         purchaseAlert: '紧急',
         time: '2021-10-5',
         name: '齿轮油\\SHC220\\18L',
@@ -82,7 +82,7 @@ export default {
         operation1: true,
         operation2: true
       }, {
-        index: 'ZL20211005',
+        orderId: 'ZL20211005',
         purchaseAlert: '紧急',
         time: '2021-10-6',
         name: '中联-美孚液压油208L',

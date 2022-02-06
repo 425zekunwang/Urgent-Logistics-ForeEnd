@@ -57,21 +57,21 @@ export default {
   data () {
     return {
       tableData: [{
-        index: '1',
+        orderId: '1',
         equipmentName: 'S管阀（230）',
         type: 'A1',
         inventoryNumber: '385',
         operation1: true,
         operation2: true
       }, {
-        index: '2',
+        orderId: '2',
         equipmentName: '眼镜板Φ260',
         type: 'B1',
         inventoryNumber: '185',
         operation1: true,
         operation2: true
       }, {
-        index: '3',
+        orderId: '3',
         equipmentName: '230老款型 S管总成',
         type: 'A2',
         inventoryNumber: '174',

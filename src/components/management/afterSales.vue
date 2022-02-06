@@ -61,19 +61,19 @@ export default {
   data () {
     return {
       tableData: [{
-        index: 'ZL20211003',
+        orderId: 'ZL20211003',
         manage: '顾先生',
         center: '长沙总仓',
         tel: '020-21111'
 
       }, {
-        index: 'ZL20211003',
+        orderId: 'ZL20211003',
         manage: '顾先生',
         center: '长沙总仓',
         tel: '020-231111'
 
       }, {
-        index: 'ZL20211003',
+        orderId: 'ZL20211003',
         manage: '顾先生',
         center: '长沙总仓',
         tel: '020-111111'

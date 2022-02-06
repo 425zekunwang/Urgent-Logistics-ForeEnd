@@ -116,7 +116,7 @@ export default {
               name: 'PartsNformation',
               children: [
                 { id: 3, title: '库存量', name: 'inventoryNumber', isoperation: false },
-                { id: 0, title: '序号', name: 'index', isoperation: false },
+                { id: 0, title: '序号', name: 'orderId', isoperation: false },
                 { id: 1, title: '设备名称', name: 'equipmentName', isoperation: false },
                 { id: 2, title: '备件类别', name: 'type', isoperation: false }
 
@@ -128,7 +128,7 @@ export default {
               name: 'aSales',
               children: [
                 { id: 5, title: '库存剩余', name: 'inventorySurplus', isoperation: false },
-                { id: 0, title: '订单编号', name: 'index', isoperation: false },
+                { id: 0, title: '订单编号', name: 'orderId', isoperation: false },
                 { id: 1, title: '采购预警', name: 'purchaseAlert', isoperation: false },
                 { id: 2, title: '发出时间', name: 'time', isoperation: false },
                 { id: 3, title: '备件名称', name: 'name', isoperation: false },
@@ -142,7 +142,7 @@ export default {
               name: 'demandSituation',
               children: [
                 { id: 5, title: '处理情况', name: 'solution', isoperation: false },
-                { id: 0, title: '订单编号', name: 'index', isoperation: false },
+                { id: 0, title: '订单编号', name: 'orderId', isoperation: false },
                 { id: 1, title: '需求客户', name: 'purchaseAlert', isoperation: false },
                 { id: 2, title: '所在区域', name: 'address2', isoperation: false },
                 { id: 3, title: '备件名称', name: 'name', isoperation: false },
@@ -156,7 +156,7 @@ export default {
               name: 'vehicleCondition',
               children: [
                 { id: 3, title: '可装载量', name: 'loadableCapacity', isoperation: false },
-                { id: 0, title: '车辆编号', name: 'index', isoperation: false },
+                { id: 0, title: '车辆编号', name: 'orderId', isoperation: false },
                 { id: 1, title: '车辆情况', name: 'vehicleCondition', isoperation: false },
                 { id: 2, title: '所处位置', name: 'location', isoperation: false }
 

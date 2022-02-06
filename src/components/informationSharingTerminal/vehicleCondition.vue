@@ -64,7 +64,7 @@ export default {
   data () {
     return {
       tableData: [{
-        index: 'ZL20211003',
+        orderId: 'ZL20211003',
         vehicleCondition: '空闲',
         location: '长沙园区',
         loadableCapacity: '12t',
@@ -72,7 +72,7 @@ export default {
         operation1: true,
         operation2: true
       }, {
-        index: 'ZL20211004',
+        orderId: 'ZL20211004',
         vehicleCondition: '忙碌',
         location: '沅江园区',
         loadableCapacity: '12t',
@@ -80,7 +80,7 @@ export default {
         operation1: true,
         operation2: true
       }, {
-        index: 'ZL20211005',
+        orderId: 'ZL20211005',
         vehicleCondition: '空闲',
         location: '宁乡园区',
         loadableCapacity: '12t',
